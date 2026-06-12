@@ -3,7 +3,7 @@
 <h3 align="center">Ingeniera en Sistemas de Información (Egresada) | UCE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Bases+de+Datos+%26+Modelado+de+Sistemas;An%C3%A1lisis+y+Miner%C3%ADa+de+Datos;Python+%7C+SQL+%7C+JavaScript;Aprendiendo+React+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Bases+de+Datos+%26+Modelado+de+Sistemas;An%C3%A1lisis+y+Miner%C3%ADa+de+Datos;Python+%7C+SQL+%7C+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
