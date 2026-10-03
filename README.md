@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Pam 👋</h1>
 
-<h3 align="center">Ingeniera en Sistemas de Información (Egresada) | UCE</h3>
+<h3 align="center">Ingeniera en Sistemas de Información | UCE</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Bases+de+Datos+%26+Modelado+de+Sistemas;An%C3%A1lisis+y+Miner%C3%ADa+de+Datos;Python+%7C+SQL+%7C+JavaScript" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ### 💡 Sobre mí
 
-- 🎓 Egresada de Ingeniería en Sistemas de Información — Universidad Central del Ecuador
+- 🎓 Ingeniería en Sistemas de Información — Universidad Central del Ecuador
 - 🗄️ Me especializo en **diseño y modelado de bases de datos** (ER, relacional, SQL)
 - 📊 Experiencia en **análisis y minería de datos** (CRISP-DM, Python, modelos predictivos)
 
